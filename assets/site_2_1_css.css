@@ -1,0 +1,10 @@
+html{
+  background-color: #fafafa;
+  font-family:'Georgia',;
+  /* text-transform: capitalize; */
+  font-size: 1.2 em;
+  /* letter-spacing: 0px; */
+}
+h1{
+  text-align: center;
+}
